@@ -1,0 +1,24 @@
+*{
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h2{
+    color: #00FF2B;
+    text-align: center;
+    font-weight: bold;
+    font-size: 40px;
+}
+.card-title{
+    color: #00FF2B;
+    text-align: center;
+}
+.card-text{
+    color: white;
+    text-align: center;
+}
+button{
+    color: white;
+    background-color: #00FF2B;
+    width: 200px;
+    height: 50px;
+}

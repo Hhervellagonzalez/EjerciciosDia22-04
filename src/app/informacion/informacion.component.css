@@ -1,0 +1,32 @@
+*{
+    background-color: black;
+}
+
+img{
+    width: 60%;
+    height: 60%;
+    margin-left: 19%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+.titulo{
+    color: #00FF2B;
+    text-align: center;
+}
+p{
+    color: white;
+    text-align: center;
+    margin: 1%;
+}
+.info{
+    justify-content: center;
+    justify-items: center;
+}
+button{
+    color: white;
+    background-color: #00FF2B;
+    width: 200px;
+    height: 50px;
+    margin-left: 42%;
+    margin-bottom: 2%;
+}

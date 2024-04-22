@@ -1,0 +1,9 @@
+h2{
+    text-align: center;
+}
+
+.card-img-top {
+    height: 300px; 
+    width: 400px; 
+    margin: 0 auto; 
+}
